@@ -1,0 +1,8 @@
+{
+  "id": "relay",
+  "name": "Relay 灰壳终端",
+  "author": "gooyoung",
+  "repo": "gooyoung/multica-theme-relay",
+  "description": "Linen-grey keycaps by day, smoked glass and amber indicators by night.",
+  "modes": ["light", "dark"]
+}

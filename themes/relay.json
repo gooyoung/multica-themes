@@ -1,0 +1,11 @@
+{
+  "id": "relay",
+  "name": "Braun",
+  "author": "gooyoung",
+  "repo": "gooyoung/multica-theme-braun",
+  "description": "An industrial Multica theme with porcelain and graphite panels, olive selection, and brick-red primary controls.",
+  "modes": [
+    "light",
+    "dark"
+  ]
+}
